@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d5sg
+- 👋 Hi, I’m @50d5
 - 👀 I’m interested in python and software deveolpment 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to get help and advice for python or any tips really
