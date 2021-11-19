@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @d5sg
+- 👀 I’m interested in python and software deveolpment 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to get help and advice for python or any tips really
+- 📫 How to reach me discord GLORY#8986
